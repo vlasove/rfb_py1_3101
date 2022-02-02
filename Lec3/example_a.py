@@ -16,6 +16,6 @@ print("a_int / b_int = ", a_int / b_int)
 # Классическое целочисленное деление - это //
 print("a_int // b_int = ", a_int // b_int)
 # Взятие остатка от деления
-print("a_int % b_int = ", a_int % b_int)
+print("a_int % b_int = ", a_int % b_int) # 5 и 3 -> |5 - (5//3)|
 # Возведение в степень
 print("a_int ^ b_int = ", a_int ** b_int)
