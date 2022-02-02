@@ -1,6 +1,6 @@
 # Целые числа
-a_int = 5
-b_int = 3
+a_int = int(input()) # int("10")
+b_int = int(input()) # int("99")
 
 print(f"A value {a_int} and B value {b_int}")
 print("Type of A:", type(a_int))
