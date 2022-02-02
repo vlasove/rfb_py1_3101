@@ -18,3 +18,7 @@ print(multiplicat_concat)
 print("Количество символов в строке:", len("#"))
 
 # В Python нет типа char
+
+# Преобразование чисел в строку
+a_str = str(10)
+b_str = str(10.55)
