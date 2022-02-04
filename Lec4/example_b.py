@@ -20,6 +20,9 @@ message = "Hello world!"
 print("Длина сообщения > 10", len(message) > 10)
 prefix = "hello" # "Hello"
 print("Вхождение подстроки 'ello'", prefix in message)
+# Проверка равенства строк с точностью до регистра
+print("asd" == "asd") # True
+print("asdf" != "asd") # True
 
 
 # На логическом типе
