@@ -1,5 +1,4 @@
 # Срезы строк
-import exampleproj
 
 
 message = "Hello#world!"
