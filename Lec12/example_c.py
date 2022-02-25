@@ -6,3 +6,4 @@ print(transition)
 transition[10] = "TEN" # Перезапись значения по существующему ключу 10
 print(transition)
 print(transition[10]) # Чтение из словаря по ключу 10
+# dict[key] -> value

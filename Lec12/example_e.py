@@ -23,7 +23,7 @@ for key in words.keys():
 for val in words.values():
     print("Value:", val)
 
-
+print(words.items())
 # Итерирование по парам
 for key, value in words.items():
     print("Key:", key, "Value:", value)

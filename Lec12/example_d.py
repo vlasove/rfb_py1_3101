@@ -9,6 +9,7 @@ print(words)
 precisions = {0.5 : "плохая точность" , 0.8 : "достаточная точность" , 0.99: "высокая точность"}
 print(precisions)
 print(precisions[0.5])
+print(precisions[0.99])
 
 sectors = {(0,0) : "начало координат", (10, 10) : "верхняя граница сетки координат"}
 print(sectors)
