@@ -27,5 +27,4 @@ def main():
     for handler in handlers:
         print(handler(2, 3))
 
-
 main()
