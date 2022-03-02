@@ -1,0 +1,1 @@
+ZAP_CONFIG = "https://elastic@admin:admin:5432"
