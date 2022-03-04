@@ -98,5 +98,12 @@
 #### Повышенной сложности:
 * -
 
+
+### День 12
+**Ссылка**: https://contest.yandex.ru/contest/35983/problems/
+
+#### Необязательные задачи:
+* A,B,C,D
+
 ### Финальный проект (необязательно)
 **Ссылка**: https://contest.yandex.ru/contest/35578/problems/
