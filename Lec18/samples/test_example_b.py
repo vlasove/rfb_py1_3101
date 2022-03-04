@@ -1,4 +1,5 @@
 """
+python -m unittest test_example_b.py
 """
 
 import unittest
